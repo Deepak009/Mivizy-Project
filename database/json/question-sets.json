@@ -1,0 +1,133 @@
+[
+    [
+        {
+            "label": "Demographic Details",
+            "questions": [
+                {
+                    "label": "Height (in cm)",
+                    "input_type": "custom_numeric",
+                    "required": true,
+                    "options": []
+                },
+                {
+                    "label": "Weight (in kg)",
+                    "input_type": "custom_numeric",
+                    "required": true,
+                    "options": []
+                }
+            ]
+        },
+        {
+            "label": "Life Style/ Health Condition/ Medical History",
+            "questions": [
+                {
+                    "label": "Do you Suffering from High Blood Pressure?",
+                    "input_type": "option",
+                    "required": true,
+                    "options": ["Yes", "No"]
+                },
+                {
+                    "label": "Do you Suffering from Thyroid",
+                    "input_type": "option",
+                    "required": true,
+                    "options": ["Yes", "No"]
+                },
+                {
+                    "label": "Polycystic Ovarian Disease (PCOD) [Women’s Only]",
+                    "input_type": "option",
+                    "required": true,
+                    "options": ["Yes", "No"]
+                },
+                {
+                    "label": "Do you Suffering from Uric Acid",
+                    "input_type": "option",
+                    "required": true,
+                    "options": ["Yes", "No"]
+                },
+                {
+                    "label": "Do you Suffering from Diabetes",
+                    "input_type": "option",
+                    "required": true,
+                    "options": ["Yes", "No"]
+                },
+                {
+                    "label": "Mention Diabetes Level",
+                    "input_type": "text",
+                    "required": false,
+                    "options": []
+                },
+                {
+                    "label": "Do you Suffering from Constipation ",
+                    "input_type": "option",
+                    "required": true,
+                    "options": ["Yes", "No"]
+                },
+                {
+                    "label": "Do you Suffering from Sleeping Disorder",
+                    "input_type": "option",
+                    "required": true,
+                    "options": ["Yes", "No"]
+                },
+                {
+                    "label": "Any Surgical Procedure Done before",
+                    "input_type": "option",
+                    "required": true,
+                    "options": ["Yes", "No"]
+                },
+                {
+                    "label": "Mention that Surgery",
+                    "input_type": "text",
+                    "required": false,
+                    "options": []
+                },
+                {
+                    "label": "Tobacco Consumption",
+                    "input_type": "option",
+                    "required": true,
+                    "options": ["Yes", "No"]
+                },
+                {
+                    "label": "Alcohol Consumption",
+                    "input_type": "option",
+                    "required": true,
+                    "options": ["Yes", "No"]
+                },
+                {
+                    "label": "Any Family Medical History",
+                    "input_type": "option",
+                    "required": true,
+                    "options": ["Diabetes", "Kidney Disorder", "Heart Disease"]
+                },
+                {
+                    "label": "Your Level of Activity ",
+                    "input_type": "option",
+                    "required": true,
+                    "options": ["Low", "Intermediate", "Active", "Very Active"]
+                },
+                {
+                    "label": "Your Food liking is aligned to which region",
+                    "input_type": "option",
+                    "required": true,
+                    "options": ["North Indian", "South Indian", "Bengali", "Others"]
+                }
+            ]
+        },
+        {
+            "label": "Diet Preference",
+            "questions": [
+                {
+                    "label": "Do you Have any Food Allergy",
+                    "input_type": "option",
+                    "required": true,
+                    "options": ["Yes", "No"]
+                },
+                {
+                    "label": "Do you Have any Food Allergy If Yes Mention that",
+                    "input_type": "option",
+                    "required": false,
+                    "options": ["Veg", "Non Veg", "Jain"]
+                }
+            ]
+        }
+    ]
+]

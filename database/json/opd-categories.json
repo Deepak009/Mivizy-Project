@@ -1,0 +1,130 @@
+[
+	{
+		"name": "Cardiology",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+		
+	},
+	{
+		"name": "Emergency and Critical Care",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+		"name": "Gastroenterology",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+		"name": "General Medicine",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+		"name": "Nephrology",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+		"name": "Neurology",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+		"name": "Ophthalmology",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+		"name": "Orthopaedics and Joint Replacement",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+		"name": "Pathology",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+		"name": "Radiology",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+
+		"name": "Cardiac Surgery and CTVS",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+		"name": "Dentistry",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+		"name": "ENT",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+		"name": "General and Laparoscopic Surgery",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+		"name": "Interventional Cardiology",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+		"name": "Neuro and Spine Surgery",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+		"name": "Obstetrics and Gynaecology",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+		"name": "Oral and Maxillofacial Surgery",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+		"name": "Paediatrics",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+		"name": "Pulmonology and Chest Medicine",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	},
+	{
+		"name": "Urology",
+		"created_at": "2021-01-01",
+		"updated_at": "2021-01-01",
+		"image": "deafult.jpg"
+	}
+]
